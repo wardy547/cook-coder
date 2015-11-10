@@ -5,18 +5,18 @@ title: Building This Blog... 09/11/2015
 
 I’ve decided to start from the very beginning. This post is going to be all about building the blog. First things first I didn’t know where or how to build one, with a little research I realised there was a lot of options.
 
-*WordPress
-*GoDaddy
-*SquareSpace
+* WordPress
+* GoDaddy
+* SquareSpace
 
 Just to name a few. In the end I decided to build one from scratch, and I heard that you could build one using a piece of software called Jekyll on Github. I was already familiar with Github due to a friend using it for his websites. I seriously recommend it if you’re planning on building your own website. Or even project websites which I am. Github holds all of your code online and creates a copy of every change you make, making it easy to revert to previous builds if you make a mistake.
 
  > "Jekyll is a simple, blog-aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers some other advanced templating features” 
 
-That was taken from the {jekyll help page} (https://help.github.com/articles/using-jekyll-with-pages/) . And best of all its free, Jekyll is free and Github hosts 1 website for free. Which for me is this website, which is perfect to keep the costs down until I plan on expanding my portfolio. All I had to pay for, is my domain name which I will explain on another post.
+That was taken from the [jekyll help page] (https://help.github.com/articles/using-jekyll-with-pages/) . And best of all its free, Jekyll is free and Github hosts 1 website for free. Which for me is this website, which is perfect to keep the costs down until I plan on expanding my portfolio. All I had to pay for, is my domain name which I will explain on another post.
 
 So I looked more into Jekyll and found out I would need to download and learn a new language which is called ruby. For some of you that may not be a problem, for me 2 weeks in to coding that was very daunting. 
-I did some research and found a legend [Barry Clark](https://github.com/barryclark/jekyll-now) had constructed a Jekyll template, circumventing the ruby side of things. It even had a file that I could input some information  i.e. heading, sub-heading, logo, Github profile, twitter and everything you see on this website which basically built the whole website, all you have to do is join Github and fork his repository. which is basically like taking a copy for yourself. I won't do it justice just yet so this is a link to his instructions for the process. [Jekyll Now](https://github.com/barryclark/jekyll-now#quick-start) just scroll down to see his instructions.
+I did some research and found a legend [Barry Clark](https://github.com/barryclark/jekyll-now) had constructed a Jekyll template, circumventing the ruby side of things. It even had a file that I could input some information  i.e. heading, sub-heading, logo, Github profile, twitter and everything you see on this website which basically built the whole website, all you have to do is join Github and fork his repository. which is basically like taking a copy for yourself. I won't do it justice just yet so this is a link to his instructions for the process. https://github.com/barryclark/jekyll-now#quick-start just scroll down to see his instructions.
 
 I did feel like I had cheated a little but I knew that 1 thing was for sure, I was going to start this blog and get me up and running. But I was going to go back and learn ruby and find out how to build it myself eventually.
 
