@@ -9,11 +9,9 @@ I've decided to go back to college in September, and subsequently finally make i
 
 In less than 2 weeks I have gone from being unsure about my future, to having a path clearly drawn out. first and foremost, I want to apologize for my bad English writing skills. It never was my strong suit and hopefully you will see it improve along with my blogging skills over time.
 
-<<<<<<< HEAD
+
  The First milestone I wanted to achieve, was to learn HTML and CSS. I did this using [Code academy](https://www.codecademy.com/). Don’t get me wrong I’m not a master at it but I’ve got the basics down and I can build a website now. Not very good I might add but you can check out my progress on [Github](https://github.com/wardy547) later.
-=======
- The First milestone I wanted to achieve, was to learn HTML and CSS. I did this using [Code academy](https://www.codecademy.com/). Don’t get me wrong am not a master at it but I’ve got the basics down and I can build a website now. Not very good I might add but you can check out my progress on [Github](https://github.com/wardy547) later.
->>>>>>> gh-pages
+
 
  My next step was to find a project, and also get all the software in place to get coding. the software I have settled on is [Github](https://github.com/wardy547) to host my website and also [sublime text 3](http://www.sublimetext.com/3) to edit my code. I just find it easy to use and very smooth. My First project is for my local boxing club, that website hasn’t gone live yet but you can see it on my Github, the link is down at the bottom of the page. I am currently working on this and will be talking about struggles in the design process in future posts.
 
