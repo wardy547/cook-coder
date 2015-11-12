@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building This Blog... 09/11/2015
+title: Adding your blog to Bloglovin.com 12/11/2015
 ---
 So i was informed by someone last night(my mum of all people) about a website and app called [www.bloglovin.com](www.bloglovin.com). You can claim your blog on this website, and then it will add it to its database. So i'm going to write this post while im doing it. 
 
