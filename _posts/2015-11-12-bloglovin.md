@@ -13,21 +13,13 @@ You need a few things ready before you do this to make it easier.
 I went to the website and signed up. once signed up head to the blog analytics link, which is in the profile dropdown menu. On this page you have to click the "claim blog" button. This is where you insert your Rss feed link. Hit search and it should appear with your blog. Click that and it will give you a piece of code to insert into your post. Here is mine.
 
 ...
-
 <a href="http://www.bloglovin.com/blog/14549121/?claim=6kdp29rybe3">Follow my blog with Bloglovin</a>
-
 ...
 
-but as you can see this is HTML. we neeed to change this into the Markup writing language for this post to read it, this is what i'm changing it to.
+This code is in HTML but jekyll reads HTML so thers not a problem there.if for any reason you need to change it to markup/markdown here is a website which shows you how to do it. [https://help.github.com/articles/markdown-basics/](https://help.github.com/articles/markdown-basics/).
 
-...
+So here is the finished product. And while you're here please follow my blog on Bloglovin. I checked it out, its a great website with lots of very interesting blogs.
 
 [Follow my blog with Bloglovin](http://www.bloglovin.com/blog/14549121/?claim=6kdp29rybe3)
 
-...
-
-so here is the finished product. and while you're here please follow my blog on Bloglovin. i checked it out, its a great website with lots of very interesting blogs.
-
-[Follow my blog with Bloglovin](http://www.bloglovin.com/blog/14549121/?claim=6kdp29rybe3)
-
-thanks guys have a good one.
+Thanks guys have a good one.
