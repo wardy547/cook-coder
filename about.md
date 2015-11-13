@@ -13,7 +13,6 @@ This is going to be the platform I use to think aloud, talk to my readers and ta
 
 
 
-
 ### Contact me
 
 [Wardy547@gmail.com](mailto:wardy547@gmail.com)
