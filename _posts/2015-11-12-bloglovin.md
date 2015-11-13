@@ -7,7 +7,7 @@ So i was informed by someone last night(my mum of all people) about a website an
 
 You need a few things ready before you do this to make it easier.
 
-* Your RSS feed link which if your using jekyll will be http://www.(isert-your-url.com)/feed.xml 
+* Your RSS feed link which if your using jekyll will be http://www.(insert-your-url.com)/feed.xml 
 
 * A post that is written and ready to be uploaded.(i didnt have one thats why im writing this) ;-)
 
